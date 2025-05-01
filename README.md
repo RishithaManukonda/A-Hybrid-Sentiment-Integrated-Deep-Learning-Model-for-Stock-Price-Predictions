@@ -12,7 +12,11 @@ Hybrid Architecture:
 Combines Multi-Source Attention (MSA), SSA, and LSTM into a powerful hybrid model for deep time series prediction.
 
 Why MS-SSA-LSTM?
+
 ✅ Outperforms traditional LSTM-based models
+
 ✅ Adapts well to dynamic and uncertain environments
+
 ✅ Suited for short-term stock prediction in China’s volatile stock market
+
 ✅ Enables more informed, data-driven trading decisions
